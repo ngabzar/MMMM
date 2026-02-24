@@ -1,6 +1,6 @@
-import { Vocabulary } from '../models/vocabulary';
+import { Vocab } from "../../../types";
 
-export const kosakatan1_2: Vocabulary[] = [
+export const kosakatan1_2: Vocab[] = [
   {
     word: "逆様",
     kana: "さかさま",
