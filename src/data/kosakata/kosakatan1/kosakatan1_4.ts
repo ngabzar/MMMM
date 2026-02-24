@@ -1,3 +1,4 @@
+
 import { Vocab } from "../../../types";
 
 export const kosakatan1_4: Vocab[] = [
