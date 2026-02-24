@@ -12,6 +12,10 @@ import { kosakatan2_1 } from '../data/kosakata/kosakatan2/kosakatan2_1';
 
 // Import Kosakata N1
 import { kosakatan1_1 } from '../data/kosakata/kosakatan1/kosakatan1_1';
+import { kosakatan1_2 } from '../data/kosakata/kosakatan1/kosakatan1_2';
+import { kosakatan1_3 } from '../data/kosakata/kosakatan1/kosakatan1_3';
+import { kosakatan1_4 } from '../data/kosakata/kosakatan1/kosakatan1_4';
+import { kosakatan1_5 } from '../data/kosakata/kosakatan1/kosakatan1_5';
 
 import { partikeln5_1 } from '../data/partikel/partikeln5/partikeln5_1';
 import { partikeln5_2 } from '../data/partikel/partikeln5/partikeln5_2';
@@ -428,7 +432,11 @@ export class JapaneseDataService {
     ...kosakatan2_1,
 
     // Import N1 Data
-    ...kosakatan1_1
+    ...kosakatan1_1,
+    ...kosakatan1_2,
+    ...kosakatan1_3,
+    ...kosakatan1_4,
+    ...kosakatan1_5
   ];
 
   // GRAMMAR DATA
