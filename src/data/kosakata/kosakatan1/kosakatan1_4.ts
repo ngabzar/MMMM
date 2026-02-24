@@ -1,8 +1,8 @@
-import { Vocabulary } from '../models/vocabulary';
+import { Vocab } from "../../../types";
 
-export const kosakatan1_4: Vocabulary[] = [
+export const kosakatan1_4: Vocab[] = [
   {
-    word: "産物",
+    word: "産物",import
     kana: "さんぶつ",
     meaning: "Produk / Hasil bumi / Hasil dari",
     level: "n1",
