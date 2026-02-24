@@ -3,7 +3,7 @@ import { Vocab } from "../../../types";
 
 export const kosakatan1_4: Vocab[] = [
   {
-    word: "産物",import
+    word: "産物",
     kana: "さんぶつ",
     meaning: "Produk / Hasil bumi / Hasil dari",
     level: "n1",
